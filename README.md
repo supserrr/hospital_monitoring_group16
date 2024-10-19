@@ -15,6 +15,8 @@ This script archives the "heart_rate_log.txt" by appending the date information 
 This script creates a directory called "archived_logs_group16", and moves each archived log file to it. Then it backs up that directory to a sandbox using the scp command.
 
 
-**Experience** 
+**Experience**
 
 We’re a team of six, and we met on campus on October 16th. We worked together on the tasks assigned, and we divided them up based on each person’s strengths. This way, we were able to finish everything in a short amount of time. It was a great experience, and it showed us the importance of teamwork and delegation.
+
+
