@@ -4,6 +4,5 @@ mkdir archived_logs_group16
 
 mv heart_rate_log.txt_* archived_logs_group16/
 
-scp -r 'd35d089e5e53@d35d089e5e53.7b3ea1d9.alu-cod.online' archived_logs_group16/:/home/
-
+scp -r '6dbb113da958.dc9c26bb.alu-cod.online'  archived_logs_group16/:/home/
 
